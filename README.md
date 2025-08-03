@@ -27,7 +27,7 @@ Monitor your surroundings remotely in real-time through an easy-to-use web inter
 
 - Arduino IDE firmware  
 - WebSocket / HTTP server running on ESP32 for streaming & control  
-- Sleek HTML/CSS/JavaScript web interface  
+- HTML web interface  
 
 ---
 
