@@ -1,4 +1,4 @@
-# ESP32-CAM Surveillance Car
+# ESP32-CAM Surveillance Rover
 
 **A smart robot car with live video streaming — powered by ESP32-CAM!**  
 Monitor your surroundings remotely in real-time through an easy-to-use web interface. Perfect for DIY home security, spying missions, or just tech fun! 😎
